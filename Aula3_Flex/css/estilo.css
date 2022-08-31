@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 1px purple;
+}
+.item{
+    font-size:35px;
+    color:green; 
+}
+.container2{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+border:solid 1px purple;
+}
+.item2{
+    background-color:purple;
+    color: dark;
+    font-size: 40px;
+    height: 80vh;
+}
+.item3{
+    background-color: yellowgreen;
+    height: 80vh;
+    font-size: 35px;
+ 
+}
